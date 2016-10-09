@@ -7,7 +7,7 @@ module.exports = {
   "parserOptions": {
     "ecmaVersion": 2017,
     "sourceType": "module"
-  }
+  },
   "rules": {
     "array-bracket-spacing": [2, "never"],
     "arrow-parens": [2, "as-needed"],

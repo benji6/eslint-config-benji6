@@ -2,7 +2,7 @@
   "name": "eslintrc",
   "version": "0.0.1",
   "description": "",
-  "main": "eslintrc.json",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/benji6/eslintrc/issues"
   },
-  "homepage": "https://github.com/benji6/eslintrc#readme"
+  "homepage": "https://github.com/benji6/eslintrc#readme",
+  "peerDependencies": {
+    "eslint": ">= 3"
+  }
 }

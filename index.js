@@ -113,7 +113,6 @@ module.exports = {
     "no-useless-concat": 2,
     "no-var": 2,
     "no-void": 2,
-    "no-warning-comments": 2,
     "no-with": 2,
     "object-curly-spacing": [2, "never"],
     "keyword-spacing": [2, {"before": true, "after": true}],

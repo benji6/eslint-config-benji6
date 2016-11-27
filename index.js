@@ -56,7 +56,6 @@ module.exports = {
     "no-extra-boolean-cast": 2,
     "no-extra-parens": [0],
     "no-extra-semi": 2,
-    "no-fallthrough": 2,
     "no-floating-decimal": 2,
     "no-func-assign": 2,
     "no-implicit-coercion": 2,

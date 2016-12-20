@@ -84,8 +84,6 @@ module.exports = {
     "no-octal-escape": 2,
     "no-octal": 2,
     "no-path-concat": 2,
-    "no-process-env": 2,
-    "no-process-exit": 2,
     "no-proto": 2,
     "no-redeclare": 2,
     "no-regex-spaces": 2,

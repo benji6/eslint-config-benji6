@@ -12,7 +12,6 @@ module.exports = {
     "array-bracket-spacing": [2, "never"],
     "arrow-parens": [2, "as-needed"],
     "arrow-spacing": 2,
-    "callback-return": 2,
     "camelcase": [2, {"properties": "always"}],
     "comma-dangle": [2, "always-multiline"],
     "comma-spacing": [2, {"before": false, "after": true}],

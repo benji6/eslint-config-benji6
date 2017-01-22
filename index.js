@@ -138,7 +138,10 @@ module.exports = {
     "space-unary-ops": 2,
     "spaced-comment": [2, "always"],
     "use-isnan": 2,
-    "valid-jsdoc": 2,
+    "valid-jsdoc": [2, {
+      "requireParamDescription": false,
+      "requireReturnDescription": false
+    }],
     "valid-typeof": 2,
     "vars-on-top": 2,
     "wrap-iife": 2,

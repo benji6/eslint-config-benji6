@@ -29,7 +29,6 @@ module.exports = {
     "handle-callback-err": 2,
     "key-spacing": [2, {"beforeColon": false, "afterColon": true}],
     "linebreak-style": [2, "unix"],
-    "max-nested-callbacks": [2, 3],
     "no-alert": 2,
     "no-array-constructor": 2,
     "no-caller": 2,

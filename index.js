@@ -27,7 +27,7 @@ module.exports = {
     "generator-star-spacing": [2, {"before": true, "after": true}],
     "global-require": 2,
     "handle-callback-err": 2,
-    "indent": [2, 2],
+    "indent": [2, 2, {"SwitchCase": 1}],
     "key-spacing": [2, {"beforeColon": false, "afterColon": true}],
     "linebreak-style": [2, "unix"],
     "no-alert": 2,

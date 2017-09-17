@@ -138,7 +138,6 @@ module.exports = {
     "spaced-comment": [2, "always"],
     "use-isnan": 2,
     "valid-typeof": 2,
-    "vars-on-top": 2,
     "wrap-iife": 2,
     "yoda": 2
   }

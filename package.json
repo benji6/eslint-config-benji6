@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/benji6/eslintrc#readme",
   "peerDependencies": {
-    "eslint": ">= 3"
+    "eslint": "^4",
+    "eslint-config-airbnb": "^16",
+    "eslint-plugin-import": "^2",
+    "eslint-plugin-jsx-a11y": "^6",
+    "eslint-plugin-react": "^7"
   }
 }

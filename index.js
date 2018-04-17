@@ -14,6 +14,7 @@ module.exports = {
     "no-mixed-operators": 0,
     "no-multiple-empty-lines": [2, {"max": 1}],
     "no-nested-ternary": 0,
+    "no-plusplus": 0,
     "no-restricted-syntax": 0,
     "no-return-assign": 0,
     "object-curly-newline": 0,
